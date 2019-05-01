@@ -1,5 +1,5 @@
 
-There are two folders inside the whole profile, and data is saved in data_bcidr folder, with the traing and testing images. the image set is partial, and I only leave 170 samle images in the training folder. As model and data folder are big, so I upload them into dropbox and can be downloaded by the below url:
+There are two folders inside the whole profile, and data is saved in data_bcidr folder, with the traing and testing images. the image set is partial, and I only leave 170 samle images in the training folder. As models folder and data folder are big, so I upload them into dropbox and can be downloaded by the below url:
 https://www.dropbox.com/sh/fv2tsxybsa06in8/AACr1IYJYrC92Ss9kURELiysa?dl=0
 
 #### 1. Preprocessing
